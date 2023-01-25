@@ -48,6 +48,8 @@ print(Norm_of_matrix)
 <br>
 <br>
 <br>
+
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/121369281/214579900-87c7e800-7bcc-4045-a53f-73885cb3d5ae.png)
 
 
@@ -56,6 +58,8 @@ print(Norm_of_matrix)
 <br>
 <br>
 <br>
+
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/121369281/214579958-20d04a68-34da-48ad-a09b-2c3a0149f313.png)
 
 
